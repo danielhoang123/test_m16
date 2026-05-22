@@ -13,6 +13,12 @@ namespace Line {
         //% block="Year"
         Year3 = 2
     }
+
+    //% block="M10 Line \\| Test hehe (P2+P8)"
+    //% inlineInputMode=inline
+    //% weight=13
+    //% group="Yeah"
+    
 }
 
 //% color="#FEBC68" weight=2 icon="\uf001" block="M11"
