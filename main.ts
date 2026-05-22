@@ -2,7 +2,7 @@ basic.forever(function () {
 	
 })
 
-//% color="#FEBC68" weight=5 icon="\uf00d" block="M10"
+//% color="#FEBC68" weight=5 icon="\uf001" block="M10"
 //% groups="['Yeah', 'Yo', 'Hihi', 'Lala']"
 namespace Line {
     export enum Hehe {
