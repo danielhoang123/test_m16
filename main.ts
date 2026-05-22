@@ -2,6 +2,18 @@ basic.forever(function () {
 	
 })
 
+//% color="#FEBC68" weight=5 icon="\uf00d" block="M16"
+namespace Line {
+    export enum Hehe {
+        //% block="Day"
+        Day1 = 0,
+        //% block="Month"
+        Month2 = 1,
+        //% block="Year"
+        Year3 = 2
+    }
+}
+
 //% color="#FEBC68" weight=2 icon="\uf001" block="M11"
 //% groups="['Setting', 'Control', 'Get Info', 'Advanced Control']"
 namespace mp3Player {
